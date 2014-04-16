@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>goagent</id>
+    <title>goagent</title>
+    <version>13.4.1.18342</version>
+    <authors>OwainPerry</authors>
+    <owners>Thoughtworks</owners>
+    <summary>goagent</summary>
+    <description>Thoughtworks Go Agent</description>
+    <projectUrl>http://http://www.go.cd/</projectUrl>
+    <tags>go agent Thoughtworks </tags>
+    <copyright>Thoughtworks</copyright>
+    <licenseUrl>http://www.Thoughtworks.com</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
